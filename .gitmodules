@@ -1,3 +1,4 @@
 [submodule "midterm/03"]
 	path = midterm/03
 	url = https://github.com/LeeYi-user/MyLang.git
+	branch = main
